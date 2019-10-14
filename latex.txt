@@ -1,0 +1,6 @@
+latex.txt
+Created Mon Oct 14 15:29:26 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+LaTeX
