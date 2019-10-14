@@ -23,6 +23,11 @@ http://mirrors.ibiblio.org/CTAN/info/latex2e-help-texinfo/latex2e.pdf
 LaTeX2e for authors
 https://www.latex-project.org/help/documentation/usrguide.pdf
 
+The Not So Short
+Introduction to LATEX 2ε
+Or LATEX 2ε in 139 minutes
+http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf
+
 What is LaTeX2e? | The TeX FAQ
 https://texfaq.org/FAQ-latex2e
 
