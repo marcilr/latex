@@ -1,0 +1,28 @@
+links.txt
+Created Mon Oct 14 15:30:55 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+LaTeX2e related links
+
+
+Links
+=====
+Difference between LaTeX, LaTeX2e, LaTeX3 ? - TeX - LaTeX Stack ...
+https://tex.stackexchange.com/questions/13541/difference-between-latex-latex2e-latex3
+
+LaTeX - A document preparation system
+https://www.latex-project.org/
+
+LaTeX - Wikipedia
+https://en.wikipedia.org/wiki/LaTeX
+
+LATEX2e: An unofficial reference manual - xxx
+http://mirrors.ibiblio.org/CTAN/info/latex2e-help-texinfo/latex2e.pdf
+
+LaTeX2e for authors
+https://www.latex-project.org/help/documentation/usrguide.pdf
+
+What is LaTeX2e? | The TeX FAQ
+https://texfaq.org/FAQ-latex2e
+
