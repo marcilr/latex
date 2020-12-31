@@ -1,0 +1,24 @@
+syntax.txt
+Created Thu 31 Dec 2020 12:09:24 PM AKST
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Using LaTeX paragraphs and sections
+
+
+Summary
+1. LaTeX uses the commands \section, \subsection and 
+\subsubsection to define sections in your document.
+
+2. The sections will have successive numbers and appear in the 
+table of contents.
+
+3. Paragraphs are not numbered and thus don't appear in the table of contents.
+Sep 1, 2013
+--latex-tutorial.com/
+
+
+Links
+=====
+Using LaTeX paragraphs and sections - LaTeX-Tutorial.com
+https://www.latex-tutorial.com/tutorials/sections/
