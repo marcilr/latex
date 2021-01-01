@@ -8,6 +8,9 @@ LaTeX2e related links
 
 Links
 =====
+Bold, italics and underlining
+https://www.overleaf.com/learn/latex/bold,_italics_and_underlining#Bold_text
+
 Difference between LaTeX, LaTeX2e, LaTeX3 ? - TeX - LaTeX Stack ...
 https://tex.stackexchange.com/questions/13541/difference-between-latex-latex2e-latex3
 
