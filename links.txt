@@ -23,7 +23,7 @@ http://mirrors.ibiblio.org/CTAN/info/latex2e-help-texinfo/latex2e.pdf
 LaTeX2e for authors
 https://www.latex-project.org/help/documentation/usrguide.pdf
 
-Lists
+Lists   <=== Great links off this page !!!
 List are basic elements in a document, when used correctly they keep 
 concepts organized and structured. This article explains how to create
 and modify numbered and unnumbered lists in LaTeX.
