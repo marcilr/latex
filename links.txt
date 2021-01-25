@@ -11,6 +11,13 @@ Links
 Bold, italics and underlining
 https://www.overleaf.com/learn/latex/bold,_italics_and_underlining#Bold_text
 
+Changing the Font Style
+A dozen odd good font examples where I found \texttt.
+Good stuff.
+Dickimaw Books
+Added these LaTeX font example to my great document
+https://www.dickimaw-books.com/latex/novices/html/fontstyle.html
+
 Difference between LaTeX, LaTeX2e, LaTeX3 ? - TeX - LaTeX Stack ...
 https://tex.stackexchange.com/questions/13541/difference-between-latex-latex2e-latex3
 
