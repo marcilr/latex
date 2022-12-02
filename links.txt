@@ -8,6 +8,9 @@ LaTeX2e related links
 
 Links
 =====
+A Guide to L A TEX
+http://www.astro.rug.nl/kuijken/latex.html
+
 Bold, italics and underlining
 https://www.overleaf.com/learn/latex/bold,_italics_and_underlining#Bold_text
 
@@ -24,8 +27,14 @@ https://tex.stackexchange.com/questions/13541/difference-between-latex-latex2e-l
 LaTeX - A document preparation system
 https://www.latex-project.org/
 
+LATEX - From Wikibooks,the open-content textbooks collection
+http://en.wikibooks.org/wiki/LaTeX
+
 LaTeX - Wikipedia
 https://en.wikipedia.org/wiki/LaTeX
+
+LaTeX Notes
+http://luke.breuer.com/time/item/LaTeX Notes/180.aspx
 
 LATEX2e: An unofficial reference manual - xxx
 http://mirrors.ibiblio.org/CTAN/info/latex2e-help-texinfo/latex2e.pdf
