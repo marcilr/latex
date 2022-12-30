@@ -17,3 +17,6 @@ pdf/
 
 latex.txt
   LaTeX2e
+
+syntax/
+  Stub for latex2e syntax
