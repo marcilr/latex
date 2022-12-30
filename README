@@ -18,5 +18,8 @@ pdf/
 latex.txt
   LaTeX2e
 
+pics/
+  Pictures
+
 syntax/
   Stub for latex2e syntax
